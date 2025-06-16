@@ -29,7 +29,7 @@ body {
 }
 
 section {
-    min-width: 100vh;
+    min-height: 100vh;
     padding: 10rem 9% 2rem;
 }
 
@@ -351,7 +351,7 @@ span {
     width: 49%;
 }
 
-.contact FORM textarea {
+.contact form textarea {
     resize: none;
 }
 
